@@ -1,6 +1,6 @@
 --[[
 
-	AirHub V2 by Exunys © CC0 1.0 Universal (2023)
+	Spartan V2 by Exunys © CC0 1.0 Universal (2023)
 	https://github.com/Exunys
 
 ]]
@@ -987,4 +987,5 @@ getgenv().AirHubV2Loaded = true
 getgenv().AirHubV2Loading = nil
 
 GeneralSignal:Fire()
+
 GUI:Close()
